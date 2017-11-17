@@ -1,5 +1,1 @@
-echo run
-echo git --version
-git init
-w
-rerrrere
+test2.sh is a ebffssfak
